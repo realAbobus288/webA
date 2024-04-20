@@ -1,0 +1,128 @@
+table{
+    text-align: center;
+}
+
+body{
+    background: #85CDCA;
+}
+
+.autor{
+    width: 100%;
+    height: 100%;
+}
+
+.ab{
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    background-color: #E27D5F;
+    border-radius: 20px;
+    border: 0px;
+}
+.ab:hover{
+    background-color: #C38D9D;
+}
+
+.topTable{
+    margin: 0 auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 90%;
+    height: 80px;
+    background: #E8A87C;
+    border-radius: 20px;
+}
+.hotelTable{
+    margin: 2% auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 90%;
+    height: 80px;
+    background: #40B3A2;
+    border-radius: 20px;
+}
+.filterTable{
+    margin: 2% 5%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 20%;
+    height: 30%;
+    background: #40B3A2;
+    border-radius: 20px;
+}
+.regTable{
+    margin: 2% auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 45%;
+    height: 80px;
+    background: #40B3A2;
+    border-radius: 20px;
+}
+
+.gal{
+    margin: 0.5% auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 50%;
+    height: 20%;
+    background: #40B3A2;
+    border-radius: 20px;
+}
+
+.otmenaB{
+    display: inline-block;
+    background-color: #E8A87C;
+    cursor: pointer;
+    transition: 0.25s;
+    width: 50%;
+    height: 100%;
+    border-radius: 20px;
+    border: 0px;
+}
+.otmenaB:hover{
+    background-color: #C38D9D;
+}
+
+.galB{
+    display: inline-block;
+    background-color: #E8A87C;
+    cursor: pointer;
+    transition: 0.25s;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    border: 0px;
+}
+.galB:hover{
+    background-color: #C38D9D;
+}
+
+.btn{
+    display: inline-block;
+    background-color: #E8A87C;
+    cursor: pointer;
+    transition: 0.25s;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    border: 0px;
+    font-size: 20px;
+}
+.btn:hover{
+    background-color: #C38D9D;
+}
+
+h1, p{
+    text-align: center;
+}
